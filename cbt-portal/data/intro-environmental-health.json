@@ -1,0 +1,845 @@
+{
+  "topic": "Introduction to Environmental Health",
+  "questions": [
+    {
+      "id": "env-001",
+      "question": "Which environment consists of water, air, soil, housing, waste and radiation?",
+      "options": [
+        "Physical environment",
+        "Biological environment",
+        "Social environment",
+        "Economic environment"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-002",
+      "question": "Bacteria, viruses, fungi, insects and rodents belong to which environment?",
+      "options": [
+        "Biological environment",
+        "Physical environment",
+        "Social environment",
+        "Chemical environment"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-003",
+      "question": "Customs, culture, taboos, income, occupation and religion form the...",
+      "options": [
+        "Social environment",
+        "Physical environment",
+        "Biological environment",
+        "Climatic environment"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-004",
+      "question": "Environment is divided into how many closely related components?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-005",
+      "question": "Environmental health is a branch of...",
+      "options": [
+        "Public health",
+        "Clinical surgery",
+        "Pharmacy",
+        "Medical laboratory science"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-006",
+      "question": "Safe drinking water and proper sewage disposal help prevent...",
+      "options": [
+        "Cholera, typhoid and diarrhoea",
+        "Asthma",
+        "Hearing loss",
+        "Skin cancer"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-007",
+      "question": "Controlling indoor and outdoor air pollution reduces...",
+      "options": [
+        "Asthma and respiratory infections",
+        "Cholera",
+        "Malaria",
+        "Food poisoning"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-008",
+      "question": "Safe food handling, storage and preparation prevents...",
+      "options": [
+        "Food poisoning",
+        "Lassa fever",
+        "Hearing loss",
+        "Radiation sickness"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-009",
+      "question": "Managing excess noise in communities and workplaces reduces...",
+      "options": [
+        "Hearing loss, stress and sleep disturbance",
+        "Cholera",
+        "Food poisoning",
+        "Malaria"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-010",
+      "question": "Controlling exposure to UV rays, X-rays and nuclear sources prevents...",
+      "options": [
+        "Cancer and genetic damage",
+        "Cholera",
+        "Scabies",
+        "Typhoid"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-011",
+      "question": "Overcrowding and poor ventilation in housing affect the spread of...",
+      "options": [
+        "Tuberculosis",
+        "Malaria",
+        "Cholera",
+        "Guinea worm"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-012",
+      "question": "Which of these is a component of environmental sanitation?",
+      "options": [
+        "Market and abattoir sanitation",
+        "Surgical procedures",
+        "Drug dispensing",
+        "Blood transfusion"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-013",
+      "question": "Which is a benefit of environmental sanitation?",
+      "options": [
+        "Reduced spread of sanitation-related diseases",
+        "Increased pest proliferation",
+        "More accidents",
+        "Greater environmental degradation"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-014",
+      "question": "Waste is commonly classified into solid, gaseous and...",
+      "options": [
+        "Liquid",
+        "Medical",
+        "Industrial",
+        "Organic"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-015",
+      "question": "Useless, unwanted or discarded dry materials are called...",
+      "options": [
+        "Refuse (solid waste)",
+        "Sewage",
+        "Effluent",
+        "Fumes"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-016",
+      "question": "Which of these is a type of solid waste?",
+      "options": [
+        "Street sweepings",
+        "Sewage",
+        "Carbon monoxide",
+        "Storm water"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-017",
+      "question": "Schools, hospitals and prisons are what source of solid waste?",
+      "options": [
+        "Institutional",
+        "Domestic",
+        "Agricultural",
+        "Commercial"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-018",
+      "question": "Rain water run-off or storm water is what source of liquid waste?",
+      "options": [
+        "Municipal",
+        "Domestic",
+        "Industrial",
+        "Agricultural"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-019",
+      "question": "Which of these is a gaseous waste?",
+      "options": [
+        "Carbon monoxide",
+        "Broken bottles",
+        "Sewage",
+        "Ashes"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-020",
+      "question": "Gas flaring is mainly associated with...",
+      "options": [
+        "Oil exploration",
+        "Laundries",
+        "Markets",
+        "Schools"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-021",
+      "question": "Waste management is best described as...",
+      "options": [
+        "The systematic administration of collection, storage, transportation, treatment and disposal of waste",
+        "Burning all waste",
+        "Burying waste only",
+        "Dumping waste in rivers"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-022",
+      "question": "Turning wastes into wealth refers to...",
+      "options": [
+        "Salvaging and recycling materials of economic value",
+        "Open dumping",
+        "Bush burning",
+        "Dumping at sea"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-023",
+      "question": "Which is a factor militating against solid waste management?",
+      "options": [
+        "Lack of funds",
+        "Adequate manpower",
+        "Enough equipment",
+        "Good maintenance of equipment"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-024",
+      "question": "A standard household dustbin should have a...",
+      "options": [
+        "Watertight, close-fitting lid",
+        "Wide open top",
+        "Loose lid without handle",
+        "Permeable cover"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-025",
+      "question": "A household dustbin should be made of...",
+      "options": [
+        "Non-absorbent, rust-resistant material",
+        "Cardboard",
+        "Absorbent material",
+        "Cloth"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-026",
+      "question": "A dustbin should be placed...",
+      "options": [
+        "On raised ground or concrete, away from water source and kitchen",
+        "Beside the well",
+        "Inside the kitchen",
+        "On bare soil by a stream"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-027",
+      "question": "In sanitary landfill, each layer of waste is covered with...",
+      "options": [
+        "Earth (soil or other inert material)",
+        "Water",
+        "Plastic only",
+        "Paper"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-028",
+      "question": "An advantage of sanitary landfill is that it...",
+      "options": [
+        "Requires little capital and receives all sorts of waste",
+        "Needs high technology",
+        "Needs no space",
+        "Never produces gas"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-029",
+      "question": "A disadvantage of sanitary landfill is...",
+      "options": [
+        "Methane and other gas explosion hazards",
+        "High cost of technology",
+        "Inability to receive mixed waste",
+        "Breeding of mosquitoes"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-030",
+      "question": "Complete destruction of combustible refuse by burning is...",
+      "options": [
+        "Incineration",
+        "Composting",
+        "Sanitary landfill",
+        "Reclamation"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-031",
+      "question": "Incineration can reduce the volume of solid waste by up to...",
+      "options": [
+        "90%",
+        "10%",
+        "30%",
+        "50%"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-032",
+      "question": "Incineration is not a final disposal method because...",
+      "options": [
+        "Ash residue is left behind",
+        "It is too cheap",
+        "It produces compost",
+        "It needs no fuel"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-033",
+      "question": "Breaking down organic waste by bacteria and fungi to produce humus is...",
+      "options": [
+        "Composting",
+        "Incineration",
+        "Sanitary landfill",
+        "Open dumping"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-034",
+      "question": "The end product of composting is useful as...",
+      "options": [
+        "Soil conditioner (manure)",
+        "Cooking gas",
+        "Drinking water",
+        "Insecticide"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-035",
+      "question": "A disadvantage of composting is that it...",
+      "options": [
+        "Takes a long time to complete",
+        "Needs very large land",
+        "Cannot be sold",
+        "Destroys all pathogens at once"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-036",
+      "question": "The most common method of refuse disposal in Nigeria is...",
+      "options": [
+        "Open dumping",
+        "Incineration",
+        "Sanitary landfill",
+        "Composting"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-037",
+      "question": "Open dumps serve as ideal breeding places for...",
+      "options": [
+        "Rats and other vectors",
+        "Fish",
+        "Beneficial plants",
+        "Livestock"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-038",
+      "question": "A vector is any arthropod or animal that...",
+      "options": [
+        "Carries and transmits infectious pathogens",
+        "Treats diseases",
+        "Cleans water",
+        "Produces vaccines"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-039",
+      "question": "Which disease is transmitted by mosquitoes?",
+      "options": [
+        "Malaria",
+        "Scabies",
+        "River blindness",
+        "Sleeping sickness"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-040",
+      "question": "House flies transmit...",
+      "options": [
+        "Typhoid fever and cholera",
+        "Yellow fever",
+        "River blindness",
+        "Scabies"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-041",
+      "question": "Sleeping sickness (trypanosomiasis) is transmitted by...",
+      "options": [
+        "Tsetse fly",
+        "Mosquito",
+        "Black fly",
+        "Mite"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-042",
+      "question": "Onchocerciasis (river blindness) is transmitted by...",
+      "options": [
+        "Black fly",
+        "Tsetse fly",
+        "Tick",
+        "Louse"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-043",
+      "question": "Scabies is associated with...",
+      "options": [
+        "Mites",
+        "Mosquitoes",
+        "House flies",
+        "Cyclops"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-044",
+      "question": "Guinea worm disease is transmitted by...",
+      "options": [
+        "Cyclops",
+        "Mites",
+        "Rat fleas",
+        "Ticks"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-045",
+      "question": "Bubonic plague is transmitted by...",
+      "options": [
+        "Rat fleas",
+        "Mosquitoes",
+        "Black flies",
+        "Mites"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-046",
+      "question": "Vectors transmit diseases in how many basic ways?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-047",
+      "question": "Transmission of cholera and typhoid by house flies is...",
+      "options": [
+        "Mechanical transmission",
+        "Biological transmission",
+        "Direct contact",
+        "Genetic transmission"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-048",
+      "question": "Malaria parasites developing in Anopheles mosquitoes is an example of...",
+      "options": [
+        "Biological transmission",
+        "Mechanical transmission",
+        "Direct contact",
+        "Genetic transmission"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-049",
+      "question": "Filling in holes and providing good drainage is what type of vector control?",
+      "options": [
+        "Environmental control",
+        "Chemical control",
+        "Biological control",
+        "Genetic control"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-050",
+      "question": "Using Gambusia fish to control mosquitoes is...",
+      "options": [
+        "Biological control",
+        "Chemical control",
+        "Environmental control",
+        "Genetic control"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-051",
+      "question": "Space spraying and residual spraying of insecticides is...",
+      "options": [
+        "Chemical control",
+        "Biological control",
+        "Environmental control",
+        "Genetic control"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-052",
+      "question": "Sterilising male vectors to make them infertile is...",
+      "options": [
+        "Genetic control",
+        "Chemical control",
+        "Biological control",
+        "Environmental control"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-053",
+      "question": "Noise, heat, vibration and ionizing radiation are...",
+      "options": [
+        "Physical hazards",
+        "Chemical hazards",
+        "Biological hazards",
+        "Psycho-social hazards"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-054",
+      "question": "Dust, vapour, fumes and insecticides are examples of...",
+      "options": [
+        "Chemical hazards",
+        "Physical hazards",
+        "Biological hazards",
+        "Psycho-social hazards"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-055",
+      "question": "Offensive odours, filthy surroundings and insecure work environments are...",
+      "options": [
+        "Psycho-social hazards",
+        "Physical hazards",
+        "Chemical hazards",
+        "Biological hazards"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-056",
+      "question": "Workers in a noisy environment should be provided with...",
+      "options": [
+        "Ear plugs or ear muffs",
+        "Rubber boots",
+        "Face masks only",
+        "Aprons"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-057",
+      "question": "Any substance that contaminates the environment is called a...",
+      "options": [
+        "Pollutant",
+        "Vector",
+        "Hazard",
+        "Nuisance"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-058",
+      "question": "Which of these is a source of air pollution?",
+      "options": [
+        "Vehicle exhaust fumes",
+        "Planting trees",
+        "Recycling",
+        "Sewage treatment"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-059",
+      "question": "Increase in water temperature from hot industrial discharge is...",
+      "options": [
+        "Thermal pollution",
+        "Noise pollution",
+        "Land pollution",
+        "Radioactive pollution"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-060",
+      "question": "Thermal pollution harms aquatic life by...",
+      "options": [
+        "Reducing oxygen in the water",
+        "Adding oxygen to the water",
+        "Cooling the water",
+        "Increasing fish numbers"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-061",
+      "question": "Sewage disposal and industrial waste dumped in rivers cause...",
+      "options": [
+        "Water pollution",
+        "Noise pollution",
+        "Thermal pollution",
+        "Radioactive pollution"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-062",
+      "question": "Excessive or unwanted sound that causes discomfort or stress is...",
+      "options": [
+        "Noise pollution",
+        "Air pollution",
+        "Land pollution",
+        "Thermal pollution"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-063",
+      "question": "Nuclear accidents and weapon testing cause...",
+      "options": [
+        "Radioactive pollution",
+        "Noise pollution",
+        "Thermal pollution",
+        "Land pollution"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-064",
+      "question": "Which measure helps control pollution?",
+      "options": [
+        "Treating sewage before discharge",
+        "Open burning of waste",
+        "Using more plastics",
+        "Cutting down forests"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-065",
+      "question": "The WHO expert group (1961) prefers the term...",
+      "options": [
+        "Residential environment",
+        "Shelter",
+        "Estate",
+        "Dwelling unit"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-066",
+      "question": "A healthful housing site should be...",
+      "options": [
+        "Elevated to prevent flooding",
+        "In a low-lying area",
+        "Close to refuse dumps",
+        "On waterlogged soil"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-067",
+      "question": "The floor of a healthful house should be...",
+      "options": [
+        "Impermeable, smooth and damp proof",
+        "Rough and porous",
+        "Cracked",
+        "Bare earth"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-068",
+      "question": "Floor area available in living rooms should not be less than how much per person?",
+      "options": [
+        "50 sq ft",
+        "20 sq ft",
+        "10 sq ft",
+        "200 sq ft"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-069",
+      "question": "Every living room should have at least...",
+      "options": [
+        "2 windows, one opening directly to open space",
+        "1 window",
+        "4 windows",
+        "No window if air-conditioned"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": "env-070",
+      "question": "The recommended height of a roof is up to...",
+      "options": [
+        "10 feet",
+        "3 feet",
+        "5 feet",
+        "20 feet"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "school": "YATO COLLEGE OF HEALTH SCIENCES AND TECHNOLOGY",
+  "level": "100 Level, First Semester",
+  "topics": [
+    {
+      "id": "intro-environmental-health",
+      "title": "Introduction to Environmental Health",
+      "file": "intro-environmental-health.json",
+      "durationMinutes": 60
+    }
+  ]
+}
